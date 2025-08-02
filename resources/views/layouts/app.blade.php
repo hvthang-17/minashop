@@ -547,9 +547,9 @@
                                 class="logo__image d-block" />
                         </a>
                     </div>
-                    <p class="footer-address">Số 450 Đường Trần Đại Nghĩa, Điện Ngọc, Ngũ Hành Sơn, Đà Nẵng</p>
-                    <p class="m-0"><strong class="fw-medium">ttantiques@gmail.com</strong></p>
-                    <p><strong class="fw-medium">0358583114</strong></p>
+                    <p class="footer-address">279 Trần Đại Nghĩa, Phường Ngũ Hành Sơn, Thành phố Đà Nẵng</p>
+                    <p class="m-0"><strong class="fw-medium">Nguyentu93dhv@gmail.com</strong></p>
+                    <p><strong class="fw-medium">083 802 4008</strong></p>
 
                     <ul class="social-links list-unstyled d-flex flex-wrap mb-0">
                         <li>
@@ -613,11 +613,11 @@
                     <h6 class="sub-menu__title text-uppercase">Cửa hàng</h6>
                     <ul class="sub-menu__list list-unstyled">
                         <li class="sub-menu__item"><a href="shop2.html" class="menu-link menu-link_us-s">Sản phẩm mới</a></li>
-                        <li class="sub-menu__item"><a href="shop3.html" class="menu-link menu-link_us-s">Đồ cổ sưu tầm</a></li>
-                        <li class="sub-menu__item"><a href="shop4.html" class="menu-link menu-link_us-s">Trang sức cổ</a></li>
-                        <li class="sub-menu__item"><a href="shop5.html" class="menu-link menu-link_us-s">Đồ gốm cổ</a>
+                        <li class="sub-menu__item"><a href="shop3.html" class="menu-link menu-link_us-s">Nước hoa</a></li>
+                        <li class="sub-menu__item"><a href="shop4.html" class="menu-link menu-link_us-s">Trang điểm</a></li>
+                        <li class="sub-menu__item"><a href="shop5.html" class="menu-link menu-link_us-s">Chăm sóc da</a>
                         </li>
-                        <li class="sub-menu__item"><a href="shop1.html" class="menu-link menu-link_us-s">Xem tất cả</a>
+                        <li class="sub-menu__item"><a href="shop1.html" class="menu-link menu-link_us-s">Phụ kiện làm đẹp</a>
                         </li>
                     </ul>
                 </div>
@@ -641,10 +641,10 @@
                 <div class="footer-column footer-menu mb-4 mb-lg-0">
                     <h6 class="sub-menu__title text-uppercase">Danh mục</h6>
                     <ul class="sub-menu__list list-unstyled">
-                        <li class="sub-menu__item"><a href="#" class="menu-link menu-link_us-s">Đồ cổ sưu tầm</a></li>
-                        <li class="sub-menu__item"><a href="#" class="menu-link menu-link_us-s">Trang sức cổ</a></li>
-                        <li class="sub-menu__item"><a href="#" class="menu-link menu-link_us-s">Đồ gốm sứ</a></li>
-                        <li class="sub-menu__item"><a href="#" class="menu-link menu-link_us-s">Đồng hồ cổ</a></li>
+                        <li class="sub-menu__item"><a href="#" class="menu-link menu-link_us-s">Nước hoa</a></li>
+                        <li class="sub-menu__item"><a href="#" class="menu-link menu-link_us-s">Son môi</a></li>
+                        <li class="sub-menu__item"><a href="#" class="menu-link menu-link_us-s">Kem dưỡng da</a></li>
+                        <li class="sub-menu__item"><a href="#" class="menu-link menu-link_us-s">Trang điểm</a></li>
                         <li class="sub-menu__item"><a href="#" class="menu-link menu-link_us-s">Xem tất cả</a>
                         </li>
                     </ul>
@@ -654,7 +654,7 @@
 
         <div class="footer-bottom">
             <div class="container d-md-flex align-items-center">
-                <span class="footer-copyright me-auto">©2024 TT Antiques</span>
+                <span class="footer-copyright me-auto">©2025 Mina Shop- Mỹ phẩm chính hãng</span>
                 <div class="footer-settings d-md-flex align-items-center">
                     <a href="privacy-policy.html">Chính sách bảo mật</a> &nbsp;|&nbsp; <a
                         href="terms-conditions.html">Điều khoản &amp;

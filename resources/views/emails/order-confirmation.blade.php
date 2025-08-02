@@ -6,7 +6,7 @@
     <title>Xác nhận đơn hàng</title>
 </head>
 <body>
-    <h1>Cảm ơn bạn đã đặt hàng tại TT Antiques!</h1>
+    <h1>Cảm ơn bạn đã đặt hàng tại Mina Shop!</h1>
 
     <h3>Thông tin đơn hàng:</h3>
     <ul>
@@ -24,8 +24,8 @@
         <li><strong>Tổng cộng:</strong> ${{$order->total}}</li>
     </ul>
 
-    <p>Đơn hàng của bạn sẽ sớm được xử lý. Cảm ơn bạn đã tin tưởng mua sắm tại TT Antiques!.</p>
+    <p>Đơn hàng của bạn sẽ sớm được xử lý. Cảm ơn bạn đã tin tưởng mua sắm tại Mina Shop!.</p>
 
-    <p>Trân trọng,<br>TT Antiques!</p>
+    <p>Trân trọng,<br>Mina Shop!</p>
 </body>
 </html>

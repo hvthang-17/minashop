@@ -25,7 +25,7 @@ class OrderConfirmationMail extends Mailable
      */
     public function build()
     {
-        return $this->from('hoangthang050517@gmail.com', 'TT Antiques')
+        return $this->from('hoangthang050517@gmail.com', 'Mina Shop')
                     ->subject('Xác nhận đơn hàng từ cửa hàng của bạn')
                     ->view('emails.order-confirmation');
     }

@@ -16,6 +16,6 @@ class EmailService
 
 
         Mail::to($toEmail)->send((new SendEmailNotification($data))
-            ->from('hoangthang050517@gmail.com', 'TT Antiques'));
+            ->from('hoangthang050517@gmail.com', 'Mina Shop'));
     }
 }
